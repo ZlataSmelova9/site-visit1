@@ -1,3 +1,4 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
 *{
     box-sizing: border-box;
     margin: 0;
@@ -165,4 +166,7 @@
     letter-spacing: 1.5px;
     text-align: center;
     display: block;
+}
+.audio-holder{
+    width: 540px;
 }
