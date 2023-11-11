@@ -264,3 +264,15 @@
     letter-spacing: 0.5px;
 }
 .img-card-2{background-image: url(img/card-2.png);}
+.img-card-3{background-image: url(img/card-3.png);}
+.img-card-4{background-image: url(img/card-4.png);}
+.footer{
+    background-color: #F5F6F8;
+    padding: 60px 0;
+}
+.course-info-title{
+    font-weight: 600;
+    font-size: 70px;
+    color: #1A1A1A;
+    padding-bottom: 40px;
+}
